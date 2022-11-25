@@ -1,0 +1,37 @@
+{
+  "name": "bfrpg-fieldguide-volume1",
+  "id": "bfrpg-fieldguide-volume1",
+  "title": "Basic Fantasy Field Guide Vol. 1",
+  "description": "Monsters from the Basic Fantasy RPG Field Guide Volume 1",
+  "authors": [
+    {
+      "name": "miqued"
+    }
+  ],
+  "version": "r1",
+  "relationships.systems": [
+    "basicfantasyrpg"
+  ],
+  "compatibility": {
+    "minimum": 9,
+    "verified": "10"
+  },
+  "packs": [
+    {
+      "name": "field-guide-vol-1-creatures",
+      "label": "Field Guide Vol. 1 Creatures",
+      "path": "packs/field-guide-vol-1-creatures.db",
+      "type": "Actor",
+      "system": "basicfantasyrpg"
+    }
+  ],
+  "relationships.requires": [
+    {
+      "id": "basicfantasyrpg",
+      "type": "system"
+    }
+  ],
+  "url": "https://github.com/miqued/bfrpg-fieldguide1-foundryvtt"
+  "manifest": "https://link/to/module/json",
+  "download": "https://link/to/module/zip"
+}
