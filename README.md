@@ -7,7 +7,7 @@ This module may soon be installable within FoundryVTT, but, in the meantime, can
 https://github.com/miqued/bfrpg-fieldguide1-foundryvtt/releases/latest/download/module.json
 
 ## Details
-This module's contents are based off of those of the [r29 (print) release](https://basicfantasy.org/downloads/Basic-Fantasy-Field-Guide-r29.pdf) of the Basic Fantasy Field Guide Volume 1 with the following modifications and additions:
+This module's contents are based off of those of the [r29 (print) release](https://basicfantasy.org/downloads/Basic-Fantasy-Field-Guide-r29.pdf) of the [Basic Fantasy Field Guide Volume 1](https://basicfantasy.org/forums/viewtopic.php?t=130) with the following modifications and additions:
 * Perceived spelling and grammar mistakes were corrected
 * Creatures that have multiple variants were each given their own actor sheets for each variant
 * Creatures with multiple attack options had their attack routines clarified (e.g. some monsters can attack with a claw and a bite, and some can attack with a claw OR a bite)
