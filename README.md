@@ -16,6 +16,9 @@ This module's contents are based off of those of the [r29 (print) release](https
 * Minor mechanical corrections for monsters with mismatched values (e.g. HD/XP, saves, attack bonuses) either within their statblock or their descriptions
 * Monster attacks were given a pawprint symbol for attacks natural to them (claws, tails, etc.) and a sword symbol for weapons
 
+## Compatibility
+I tested this version of the module with FoundryVTT version 10.290. It should be compatible with any V10 version of Foundry. It may work with V9, but, if not, there is a version which is confirmed for V9 available from the Basic Fantasy Workshop forums [HERE](https://basicfantasy.org/forums/viewtopic.php?f=19&t=4543&p=82532#p82532).
+
 ## To-Do
 * Update monsters to match the latest digital release of the BFRPG Field Guide, if applicable
 * Map monsters to tokens which actually represent them, using artwork from the Field Guide, getting permission from their artists if necessary
