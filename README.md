@@ -20,6 +20,9 @@ This module's contents are based off of those of the [r29 (print) release](https
 ## Compatibility
 I tested this version of the module with FoundryVTT version 10.290. It should be compatible with any V10 version of Foundry. It may work with V9, but, if not, there is a version which is confirmed for V9 available from the Basic Fantasy Workshop forums [HERE](https://basicfantasy.org/forums/viewtopic.php?f=19&t=4543&p=82532#p82532). Note that those modules are not maintained and were published there to get them "early". They also lack the script that makes the dependencies optional.
 
+### Dependencies (Optional, allow for an organized compendium)
+* [Compendium Folders](https://github.com/earlSt1/vtt-compendium-folders)
+* [libWrapper](https://github.com/ruipin/fvtt-lib-wrapper)
 ## To-Do
 * Update monsters to match the latest digital release of the BFRPG Field Guide, if applicable
 * Map monsters to tokens which actually represent them, using artwork from the Field Guide, getting permission from their artists if necessary
