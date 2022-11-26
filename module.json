@@ -8,7 +8,7 @@
       "name": "miqued"
     }
   ],
-  "version": "r1",
+  "version": "r2",
   "relationships.systems": [
     "basicfantasyrpg"
   ],
@@ -33,9 +33,28 @@
       "compatibility": {
         "verified": "r8"
       }
+    }],
+    "requires": [{
+      "id": "compendium-folders",
+      "type": "module",
+      "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/10x-update/module.json",
+      "compatibility": {
+        "verified": "2.5.0"
+      }
+    },
+    {
+      "id": "lib-wrapper",
+      "type": "module",
+      "manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/download/v1.12.11.0/module.json",
+      "compatibility": {
+        "verified": "1.12.11.0"
+      }
     }]
-  }
+  },
+  "esmodules": [
+    "scripts/removecfclutter.js"
+  ],
   "url": "https://github.com/miqued/bfrpg-fieldguide1-foundryvtt",
   "manifest": "https://github.com/miqued/bfrpg-fieldguide1-foundryvtt/releases/latest/download/module.json",
-  "download": "https://github.com/miqued/bfrpg-fieldguide1-foundryvtt/releases/download/r1/bfrpg-fieldguide1-foundryvtt-r1.zip"
+  "download": "https://github.com/miqued/bfrpg-fieldguide1-foundryvtt-organized/releases/download/r1/bfrpg-fieldguide1-foundryvtt-r2.zip"
 }
