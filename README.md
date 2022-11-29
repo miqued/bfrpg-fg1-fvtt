@@ -2,7 +2,7 @@
 This is an add-on module for FoundryVTT for use with the [Basic Fantasy RPG system](https://github.com/orffen/basicfantasyrpg) and the [Core Rules module](https://github.com/Stew-rt/basicfantasyrpg-corerules-en). Visit the Basic Fantasy RPG project's [website](https://basicfantasy.org/) for more info about the game system.
 
 ## Installation
-This module may soon be installable within FoundryVTT, but, in the meantime, can be manually installed using the latest manifest link:
+This module may be installed from within FoundryVTT or can be manually installed using the latest-release manifest link:
 
 https://github.com/miqued/bfrpg-fieldguide1-foundryvtt/releases/latest/download/module.json
 
