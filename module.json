@@ -1,6 +1,6 @@
 {
-  "name": "bfrpg-fieldguide-volume1",
-  "id": "bfrpg-fieldguide-volume1",
+  "name": "bfrpg-fg1-fvtt",
+  "id": "bfrpg-fg1-fvtt",
   "title": "Basic Fantasy Field Guide Vol. 1",
   "description": "Monsters from the Basic Fantasy RPG Field Guide Volume 1",
   "authors": [
@@ -8,7 +8,7 @@
       "name": "miqued"
     }
   ],
-  "version": "r2",
+  "version": "r3",
   "relationships.systems": [
     "basicfantasyrpg"
   ],
@@ -18,9 +18,9 @@
   },
   "packs": [
     {
-      "name": "field-guide-vol-1-creatures",
+      "name": "bfrpg-fg1-creatures",
       "label": "Field Guide Vol. 1 Creatures",
-      "path": "packs/field-guide-vol-1-creatures.db",
+      "path": "packs/bfrpg-fg1-creatures.db",
       "type": "Actor",
       "system": "basicfantasyrpg"
     }
@@ -54,7 +54,7 @@
   "esmodules": [
     "scripts/removecfclutter.js"
   ],
-  "url": "https://github.com/miqued/bfrpg-fieldguide1-foundryvtt",
-  "manifest": "https://github.com/miqued/bfrpg-fieldguide1-foundryvtt/releases/latest/download/module.json",
-  "download": "https://github.com/miqued/bfrpg-fieldguide1-foundryvtt/releases/download/r2/bfrpg-fieldguide1-foundryvtt-r2.zip"
+  "url": "https://github.com/miqued/bfrpg-fg1-fvtt",
+  "manifest": "https://github.com/miqued/bfrpg-fg1-fvtt/releases/latest/download/module.json",
+  "download": "https://github.com/miqued/bfrpg-fg1-fvtt/releases/download/r3/bfrpg-fg1-fvtt-r3.zip"
 }
