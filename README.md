@@ -36,9 +36,9 @@ Being merely a reproduction of Basic Fantasy OGL-licensed content, this module a
 * System Reference Document Copyright 2000-2003, Wizards of the Coast, Inc.; Authors Jonathan Tweet, Monte Cook, Skip Williams, Rich Baker, Andy Collins, David Noonan, Rich Redman, Bruce R. Cordell, John D. Rateliff, Thomas Reid, James Wyatt, based on original material by E. Gary Gygax and Dave Arneson
 * Castles & Crusades: Players Handbook, Copyright 2004, Troll Lord Games; Authors Davis Chenault and Mac Golden
 * Castles & Crusades: Monsters Product Support, Copyright 2005, Troll Lord Games
-* The Basic Fantasy Field Guide Copyright © 2010 Chris Gonnerman and Contributors
-* Basic Fantasy Role-Playing Game Copyright © 2006-2015 Chris Gonnerman
-* Basic Fantasy RPG for FoundryVTT © 2022 Steve Simenic
+* The Basic Fantasy Field Guide Copyright © 2010-2023 Chris Gonnerman and Contributors
+* Basic Fantasy Role-Playing Game Copyright © 2006-2023 Chris Gonnerman
+* Basic Fantasy RPG for FoundryVTT © 2022-2023 Steve Simenic
 
 ## Special Thanks
 * [@mxzf](https://github.com/mxzf) for help with js woes
