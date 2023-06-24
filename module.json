@@ -15,7 +15,7 @@
   ],
   "packs": [
     {
-      "label": "bfrpg-fg1-fvtt",
+      "label": "Field Guide Vol. 1 Creatures",
       "name": "bfrpg-fg1-fvtt",
       "type": "Actor",
       "system": "basicfantasyrpg",
