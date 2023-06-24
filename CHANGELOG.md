@@ -1,6 +1,11 @@
-# r4 (Planned)
+# r5 (planned)
 * Convert rolls within monster statistics to clickable roll buttons
-* TBA
+* Add tokens for monsters with artwork in the published Field Guide document
+
+# r4
+* Remove `compendium-folders` and `libwrapper` dependency
+* Repackage module using FoundryVTT LevelDB
+* Restructure folders using core FoundryVTT V11
 
 # r3
 * Add CREDITS, LICENSE.txt, and CHANGELOG.md to module package
