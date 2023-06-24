@@ -10,7 +10,6 @@ https://github.com/miqued/bfrpg-fieldguide1-foundryvtt/releases/latest/download/
 This module's contents are based off of those of the [r29 (print) release](https://basicfantasy.org/downloads/Basic-Fantasy-Field-Guide-r29.pdf) of the [Basic Fantasy Field Guide Volume 1](https://basicfantasy.org/forums/viewtopic.php?t=130) with the following modifications and additions:
 * Perceived spelling and grammar mistakes were corrected
 * Creatures that have multiple variants were each given their own actor sheets for each variant and organized into folders corresponding with the Field Guide (i.e. the Brown Dragon has 5 actor sheets which are in a folder titled "Dragon, Brown" which is itself within a folder titled "Dragon", to provide consistent means of monster organization)
-    - If the dependencies are not enabled, then the monsters will still be present with the correct names, but they will simply be in one big [searchable] list
 * Creatures with multiple attack options had their attack routines clarified (e.g. some monsters can attack with a claw and a bite, and some can attack with a claw OR a bite)
 * Mechanics for monsters were removed from the description and placed either with the attacks they accompany or in their own "special abilities" entry
 * Monsters which can cast spells were given a pre-selected list of spells, so that they may be used without any GM preparation
@@ -18,11 +17,8 @@ This module's contents are based off of those of the [r29 (print) release](https
 * Monster attacks were given a pawprint symbol for attacks natural to them (claws, tails, etc.) and a sword symbol for weapons
 
 ## Compatibility
-I tested this version of the module with FoundryVTT version 10.290. It should be compatible with any V10 version of Foundry. It may work with V9, but, if not, there is a version which is confirmed for V9 available from the Basic Fantasy Workshop forums [HERE](https://basicfantasy.org/forums/viewtopic.php?f=19&t=4543&p=82532#p82532). Note that those modules are not maintained and were published there to get them "early". They also lack the script that makes the dependencies optional.
+I tested this version of the module with FoundryVTT version 11.320. It is no longer compatible with any V10 or prior version of Foundry. A V9 version may be downloaded directly from the Basic Fantasy Workshop forums [HERE](https://basicfantasy.org/forums/viewtopic.php?f=19&t=4543&p=82532#p82532), but that version will not be supported if any issues arise from its use.
 
-### Dependencies (Optional, allow for an organized compendium)
-* [Compendium Folders](https://github.com/earlSt1/vtt-compendium-folders)
-* [libWrapper](https://github.com/ruipin/fvtt-lib-wrapper)
 ## To-Do
 * Update monsters to match the latest digital release of the BFRPG Field Guide, if applicable
 * Map monsters to tokens which actually represent them, using artwork from the Field Guide, getting permission from their artists if necessary
