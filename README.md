@@ -4,7 +4,7 @@ This is an add-on module for FoundryVTT for use with the [Basic Fantasy RPG syst
 ## Installation
 This module may be installed from within FoundryVTT or can be manually installed using the latest-release manifest link:
 
-https://github.com/miqued/bfrpg-fieldguide1-foundryvtt/releases/latest/download/module.json
+https://github.com/miqued/bfrpg-fg1-fvtt/releases/latest/download/module.json
 
 ## Details
 This module's contents are based off of those of the [r29 (print) release](https://basicfantasy.org/downloads/Basic-Fantasy-Field-Guide-r29.pdf) of the [Basic Fantasy Field Guide Volume 1](https://basicfantasy.org/forums/viewtopic.php?t=130) with the following modifications and additions:
