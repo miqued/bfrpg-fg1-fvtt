@@ -17,7 +17,7 @@ This module's contents are based off of those of the [r29 (print) release](https
 * Monster attacks were given a pawprint symbol for attacks natural to them (claws, tails, etc.) and a sword symbol for weapons
 
 ## Compatibility
-I tested this version of the module with FoundryVTT version 11.320. It is no longer compatible with any V10 or prior version of Foundry. A V9 version may be downloaded directly from the Basic Fantasy Workshop forums [HERE](https://basicfantasy.org/forums/viewtopic.php?f=19&t=4543&p=82532#p82532), but that version will not be supported if any issues arise from its use.
+I tested this version of the module with FoundryVTT version 11.302. It is no longer compatible with any V10 or prior version of Foundry. A V9 version may be downloaded directly from the Basic Fantasy Workshop forums [HERE](https://basicfantasy.org/forums/viewtopic.php?f=19&t=4543&p=82532#p82532), but that version will not be supported if any issues arise from its use.
 
 ## To-Do
 * Update monsters to match the latest digital release of the BFRPG Field Guide, if applicable
