@@ -1,28 +1,30 @@
 {
-  "name": "bfrpg-fg1-fvtt",
   "id": "bfrpg-fg1-fvtt",
-  "title": "Basic Fantasy Field Guide Vol. 1",
-  "description": "Monsters from the Basic Fantasy RPG Field Guide Volume 1",
+  "title": "Basic Fantasy Field Guide Vol. 1 Creatures",
+  "version": "r4",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "Monsters from the Basic Fantasy Field Guide Vol. 1",
   "authors": [
     {
-      "name": "miqued"
+      "name": "miqued",
+      "flags": {}
     }
   ],
-  "version": "r3",
-  "relationships.systems": [
-    "basicfantasyrpg"
-  ],
-  "compatibility": {
-    "minimum": 9,
-    "verified": "10"
-  },
   "packs": [
     {
-      "name": "bfrpg-fg1-creatures",
-      "label": "Field Guide Vol. 1 Creatures",
-      "path": "packs/bfrpg-fg1-creatures.db",
+      "label": "bfrpg-fg1-fvtt",
+      "name": "bfrpg-fg1-fvtt",
       "type": "Actor",
-      "system": "basicfantasyrpg"
+      "system": "basicfantasyrpg",
+      "path": "packs/bfrpg-fg1-fvtt",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
     }
   ],
   "relationships": {
@@ -31,30 +33,11 @@
       "type": "system",
       "manifest": "https://raw.githubusercontent.com/orffen/basicfantasyrpg/main/system.json",
       "compatibility": {
-        "verified": "r8"
+        "verified": "r10"
       }
     }],
-    "requires": [{
-      "id": "compendium-folders",
-      "type": "module",
-      "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/10x-update/module.json",
-      "compatibility": {
-        "verified": "2.5.0"
-      }
     },
-    {
-      "id": "lib-wrapper",
-      "type": "module",
-      "manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/download/v1.12.11.0/module.json",
-      "compatibility": {
-        "verified": "1.12.11.0"
-      }
-    }]
-  },
-  "esmodules": [
-    "scripts/removecfclutter.js"
-  ],
   "url": "https://github.com/miqued/bfrpg-fg1-fvtt",
   "manifest": "https://github.com/miqued/bfrpg-fg1-fvtt/releases/latest/download/module.json",
-  "download": "https://github.com/miqued/bfrpg-fg1-fvtt/releases/download/r3/bfrpg-fg1-fvtt-r3.zip"
+  "download": "https://github.com/miqued/bfrpg-fg1-fvtt/releases/download/r4/bfrpg-fg1-fvtt-r4.zip"
 }
